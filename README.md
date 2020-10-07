@@ -1,4 +1,3 @@
-```markdown
 ![Screenshot](ppt/Text2moji_Final_Page_01.jpg)
 ![Screenshot](ppt/Text2moji_Final_Page_02.jpg)
 ![Screenshot](ppt/Text2moji_Final_Page_03.jpg)
@@ -19,4 +18,3 @@
 ![Screenshot](ppt/Text2moji_Final_Page_18.jpg)
 ![Screenshot](ppt/Text2moji_Final_Page_19.jpg)
 ![Screenshot](ppt/Text2moji_Final_Page_20.jpg)
-```
